@@ -15,6 +15,13 @@ Years later, documentation remains an overlooked part of OSS development for man
  
 Taking a Readme-driven development approach can resolve some of these issues immediately. But even if you don't support Preston-Warner's argument, you can still make sure your Readme makes sense to others. We're here to help you, by connecting you to an audience of OSS enthusiasts and writing/editing professionals willing to offer you feedback and direction.
 
+### Our Project Aims:
+In no specific order:
+- concrete useability improvements made to READMEs
+- generate discussion around style, which could ideally lead docs teams to create style guides detailing preferences (for examples, Chicago vs. AP style; EU vs. US spelling; etc.)
+- more attention paid to docs and doc writing as a serious discipline
+- increase non-dev involvement in OSS by providing a safe, simple, fun gateway (or gateway drug?!) for contributing
+
 ### A Note to Writers: Why Work for Free?
 [Some lines about how we understand that writers and editors are often underpaid and undervalued, but why contributing to OSS can still benefit them.]
 
