@@ -22,10 +22,12 @@ In no specific order:
 - more attention paid to docs and doc writing as a serious discipline
 - increase non-dev involvement in OSS by providing a safe, simple, fun gateway (or gateway drug?!) for contributing
 
-### A Note to Writers and Editors: Why Work for Free?
-Some of us recently worked as full-time writers and editors, and understand that changes in the industry have made it harder to get paid for words. Some of us have done writing work for free, and it doesn't feel good. Free doesn't buy dinner, or pay the rent. We would not want you to participate in this project, then feel taken advantage of or unappreciated.
+### A Note to FOSS First-Timers Who Write/Edit: Why Work for Free?
+Some of us recently worked as full-time writers and editors, and understand that changes in the industry have made it harder to get paid for words. Some of us have done writing work for free, and it doesn't feel good. Free doesn't buy dinner, or pay the rent.
 
-Think carefully about why you want to use your writing and editing skills in contributing to FOSS efforts. It might be to increase your knowledge of technology and open source; collaborate with creative people; help a struggling developer improve their project in a way you find simple, but that they might find difficult; or build your portfolio with different job prospects in mind. Maybe you're attracted to FOSS's spirit of free exchange and information sharing. These are just some of the reasons why many of us all over the world spend our nights and weekends at our computers, doing work for free. 
+With that in mind, think carefully about why you want to contribute your writing and editing skills to making the world's READMEs more readable. It might be to increase your knowledge of technology and open source; collaborate with creative people; help a struggling developer improve their project in a way you find simple, but that they might find difficult; or build your portfolio with different job prospects in mind. Maybe you're attracted to FOSS's spirit of free exchange and information sharing. These are just some of the reasons why many of us all over the world spend our nights and weekends at our computers, doing work for no monetary compensation. 
+
+Maybe you'll quickly find that helping FOSS projects is something you love. Maybe you'll quickly question what you're doing. With that in mind, start small. Don't overcommit. Help one project, then assess your experience. Did you like it? Did you not? What would make it better? Would you do it again?
 
 Many of us contribute to FOSS projects at work; we are lucky. You might not have this opportunity ... yet. Software development is a dynamic industry, in which it's possible to make your own job—especially if your communication skills are strong. There are no guarantees, but helping some projects to improve their docs is a low-friction way to share your value with others who might want to compensate you.
 
