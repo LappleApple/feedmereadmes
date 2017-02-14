@@ -22,8 +22,14 @@ In no specific order:
 - more attention paid to docs and doc writing as a serious discipline
 - increase non-dev involvement in OSS by providing a safe, simple, fun gateway (or gateway drug?!) for contributing
 
-### A Note to Writers: Why Work for Free?
-[Some lines about how we understand that writers and editors are often underpaid and undervalued, but why contributing to OSS can still benefit them.]
+### A Note to Writers and Editors: Why Work for Free?
+Some of us recently worked as full-time writers and editors, and understand that changes in the industry have made it harder to get paid for words. Some of us have done writing work for free, and it doesn't feel good. Free doesn't buy dinner, or pay the rent. We would not want you to participate in this project, then feel taken advantage of or unappreciated.
+
+Think carefully about why you want to use your writing and editing skills in contributing to FOSS efforts. It might be to increase your knowledge of technology and open source; collaborate with creative people; help a struggling developer improve their project in a way you find simple, but that they might find difficult; or build your portfolio with different job prospects in mind. Maybe you're attracted to FOSS's spirit of free exchange and information sharing. These are just some of the reasons why many of us all over the world spend our nights and weekends at our computers, doing work for free. 
+
+Many of us contribute to FOSS projects at work; we are lucky. You might not have this opportunity ... yet. Software development is a dynamic industry, in which it's possible to make your own job—especially if your communication skills are strong. There are no guarantees, but helping some projects to improve their docs is a low-friction way to share your value with others who might want to compensate you.
+
+One thing to keep in mind, in FOSS and in life: Go where it's warm. If project creators are taking advantage of you or making you feel uncomfortable, find another project. Seek collaborators who make you feel respected, appreciated, and "one of them." Don't settle for less.
 
 #### For GitHub First-Timers
 If this is your first time using GitHub, [this tutorial](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) can help you get started. You can also leave a comment in the Issues Tracker; just add "HELP: [your questions/needs]" in your issue.
