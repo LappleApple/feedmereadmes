@@ -6,22 +6,22 @@ This project originated at FOSDEM 2017 out of a conversation between folks at Re
 
 ### Why We're Doing This
 
-In 2010, GitHub founder Tom Preston-Warner wrote "[Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)," in which he advocated writing your README first. "First. As in, before you write any code or tests or behaviors or stories or ANYTHING," he wrote. "I know, I know, we’re programmers, dammit, not tech writers! But that’s where you’re wrong. Writing a Readme is absolutely essential to writing good software. Until you’ve written about your software, you have no idea what you’ll be coding."
+In 2010, GitHub founder Tom Preston-Warner wrote "[README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)," in which he advocated writing your README first. "First. As in, before you write any code or tests or behaviors or stories or ANYTHING," he wrote. "I know, I know, we’re programmers, dammit, not tech writers! But that’s where you’re wrong. Writing a Readme is absolutely essential to writing good software. Until you’ve written about your software, you have no idea what you’ll be coding."
 
 Years later, documentation remains an overlooked part of OSS development for many. How this plays out:
  - READMEs that come without basic install/run/config instructions, creating needless friction for potential users and contributors.
  - READMEs that don't explain the "Why" and "How" behind the project—why it exists, why it's different from similar projects, how it's used in production by the creators or others, and how it's architected.
  - READMEs that are either too short or too cluttered.
  
-Taking a Readme-driven development approach can resolve some of these issues immediately. But even if you don't support Preston-Warner's argument, you can still make sure your Readme user-friendly. We advise defining "user" broadly, to include your colleagues, your language community, your manager, your idols, journalists, fellow FOSS addicts who are in a hurry, your parents. [Tell a story](https://opensource.com/open-organization/17/1/repo-tells-a-story) that others can comprehend. 
+Taking a README-driven development approach can resolve some of these issues immediately. But even if you don't support Preston-Warner's argument, you can still make sure your README user-friendly. We advise defining "user" broadly, to include your colleagues, your language community, your manager, your idols, journalists, fellow FOSS addicts who are in a hurry, your parents. [Tell a story](https://opensource.com/open-organization/17/1/repo-tells-a-story) that others can comprehend. 
 
 We're here to help you, by connecting you to an audience of OSS enthusiasts and writing/editing professionals willing to offer you feedback and direction.
 
 ### Our Project Aims:
 In no specific order:
 - concrete useability improvements made to READMEs
-- generate discussion around style, which could ideally lead docs teams to create style guides detailing preferences (for examples, Chicago vs. AP style; EU vs. US spelling; etc.)
-- more attention paid to docs and doc writing as a serious discipline
+- generate discussion around style, which could ideally lead docs teams to create style guides detailing preferences (for examples, Chicago vs. AP style, etc.)
+- more attention paid to docs and doc-writing as a serious discipline
 - increase non-dev involvement in OSS by providing a safe, simple, fun gateway (or gateway drug?!) for contributing
 
 ### A Note to FOSS First-Timers Who Write/Edit: Why Work for Free?
