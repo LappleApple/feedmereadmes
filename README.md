@@ -17,7 +17,7 @@ Taking a README-driven development approach can resolve some of these issues imm
 
 We're here to help you, by connecting you to an audience of OSS enthusiasts and writing/editing professionals willing to offer you feedback and direction.
 
-### Our Project Aims, in no Specific Order:
+### Our Project Aims, in No Specific Order:
 - make READMEs clearer and more usable
 - generate discussions around style, which could ideally lead docs teams to create style guides detailing preferences (for examples, Chicago vs. AP style, etc.)
 - draw more attention to docs and doc-writing among developers
