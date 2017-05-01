@@ -17,11 +17,10 @@ Taking a README-driven development approach can resolve some of these issues imm
 
 We're here to help you, by connecting you to an audience of OSS enthusiasts and writing/editing professionals willing to offer you feedback and direction.
 
-### Our Project Aims:
-In no specific order:
-- concrete useability improvements made to READMEs
-- generate discussion around style, which could ideally lead docs teams to create style guides detailing preferences (for examples, Chicago vs. AP style, etc.)
-- more attention paid to docs and doc-writing as a serious discipline
+### Our Project Aims, in no Specific Order:
+- make READMEs clearer and more usable
+- generate discussions around style, which could ideally lead docs teams to create style guides detailing preferences (for examples, Chicago vs. AP style, etc.)
+- draw more attention to docs and doc-writing among developers
 - increase non-dev involvement in OSS by providing a safe, simple, fun gateway (or gateway drug?!) for contributing
 
 ### A Note to FOSS First-Timers Who Write/Edit: Why Work for Free?
