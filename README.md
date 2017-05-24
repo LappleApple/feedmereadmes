@@ -5,7 +5,7 @@ This project originated at FOSDEM 2017 out of a conversation between folks at Re
   - A pretty thorough README edit
   - Project analysis/feedback to help you sharpen the "why," "how," and "what" behind your work. We use [Zalando's product analysis template](https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md) and other resources for this part. :)
 - If you're a **writer or editor** who's interested in helping the open source community but not sure where to start, you can start right here. :) Go to the Issues, find a README to edit, and start working your wordsmith magic.
-- If you're a **product specialist/owner/manager** who wants to contribute to open source development, you can lend your expertise to help project creators strengthen their project purpose and vision.
+- If you're a **product specialist/owner/manager** who wants to contribute to open source development, you can lend your expertise to help project creators strengthen their project purpose and vision (which will make for better READMEs).
 
 ### Why We're Doing This
 
