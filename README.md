@@ -22,6 +22,8 @@ We're here to help you, by connecting you to an audience of OSS enthusiasts and 
 
 ### Our Project Aims, in No Specific Order:
 - make READMEs clearer and more useful
+- help project creators place their work in a bigger context: why their work exists, what it does, what it doesn't do, etc.
+- offer guidance that might not be readily available to individual creators
 - generate discussions around style, which could ideally lead docs teams to create style guides detailing preferences (for examples, Chicago vs. AP style, etc.)
 - draw more attention to docs and doc-writing among developers
 - increase non-dev involvement in OSS by providing a safe, simple, fun gateway (or gateway drug?!) for contributing
