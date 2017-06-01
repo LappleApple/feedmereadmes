@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct [from here](http://contributor-covenant.org/version/1/4/)).
+# Contributor Covenant Code of Conduct ([from here](http://contributor-covenant.org/version/1/4/)).
 
 ## Our Pledge
 
