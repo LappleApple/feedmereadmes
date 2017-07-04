@@ -1,4 +1,4 @@
-## feedmereadmes: A README help exchange
+## Feedmereadmes: A README help exchange
 
 This project originated at FOSDEM 2017 out of a conversation between folks at RedHat and Zalando. The idea is simple:
 - If you're a **project author** who's looking for README feedback and help, add the link to your project README via the "Issues" feature on this repository. You can also tweet us your README link at [@feedmereadmes](https://twitter.com/feedmereadmes). You'll receive:
