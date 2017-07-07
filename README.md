@@ -18,6 +18,8 @@ Years later, documentation remains an overlooked part of OSS development for man
  
 Taking a README-driven development approach can resolve some of these issues immediately. But even if you don't support Preston-Warner's argument, you can still make sure your README user-friendly. We advise defining "user" broadly, to include your colleagues, your language community, your manager, your idols, journalists, fellow FOSS addicts who are in a hurry, your parents. [Tell a story](https://opensource.com/open-organization/17/1/repo-tells-a-story) that others can comprehend. 
 
+Make "[code isn't self-documenting](https://www.youtube.com/watch?v=PC05prd2usY)" one of your mantras.
+
 We're here to help you, by connecting you to an audience of OSS enthusiasts and writing/editing professionals willing to offer you feedback and direction.
 
 ### Our Project Aims, in No Specific Order:
