@@ -18,7 +18,7 @@
 - A line about the average response time to issues and/or pull requests, but possibly outdated or not clear; or no information on this point.
 - The text is rarely updated and might be inaccurate.
 
-### Level Three: Minimal README
+### Level Three: Basic README
 - Somewhat detailed information about what the project is and does, but no details of its purpose.
 - Basic installation, configuration, running details for users, tested and complete.
 - Developer documentation and references to a vision or project roadmap to onboard new contributors.
@@ -27,7 +27,7 @@
 - A line about the average response time to issues and/or pull requests.
 - The text is updated regularly, but at intervals (monthly or quarterly) such that inaccuracies may exist.
 
-### Level Four: Purpose-inclusive README
+### Level Four: README with purpose
 - Detailed information about what the project is and does, along with notes about its features/special attributes and why those exist.
 - Basic installation, configuration, running details for users are tested, current and complete, and accompanied with information about commonly made errors/how to resolve them.
 - Developer documentation and references to a detailed vision or project roadmap to onboard new contributors.
