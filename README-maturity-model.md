@@ -7,6 +7,7 @@
 - No complimentary files, such as contributor guidelines.
 - No build status information, such that the reader will not gain much insight into the project's current state.
 - No indication about average response time to issues and/or pull requests.
+- No badges to indicate code coverage or other quality metrics.
 - What text is available is outdated or non-priority.
 
 ### Level Two: Bare Minimum README
@@ -16,6 +17,7 @@
 - A line in the README about contributions, but no dedicated file.
 - A line about the project's build status, but possibly outdated or not clear; or no information on this point.
 - A line about the average response time to issues and/or pull requests, but possibly outdated or not clear; or no information on this point.
+- No badges to indicate code coverage or other quality metrics.
 - The text is rarely updated and might be inaccurate.
 
 ### Level Three: Basic README
@@ -25,6 +27,7 @@
 - A dedicated Contributing.md/.rst file with basic information.
 - A line about the project's build status, but minimal: "under development" or "stable."
 - A line about the average response time to issues and/or pull requests.
+- At least one badge to indicate code coverage or other quality metrics.
 - The text is updated regularly, but at intervals (monthly or quarterly) such that inaccuracies may exist.
 
 ### Level Four: README with purpose
@@ -34,6 +37,7 @@
 - A dedicated Contributing.md/.rst file with detailed information about style guidelines, caveats, and pull request size.
 - Information about the project's build status includes some context about what aspects of the project remain under development and/or are creating instability.
 - Clear information about the average response time to issues and/or pull requests.
+- One or more badges to indicate code coverage or other quality metrics.
 - The text is updated regularly, but at intervals (monthly or quarterly) such that inaccuracies may exist.
 
 ### Level Five: Product-oriented README
@@ -44,5 +48,6 @@
 - A dedicated Contributing.md/.rst file with detailed information about style guidelines, caveats, and pull request size.
 - Information about the project's build status includes detailed context about what aspects of the project remain under development and/or are creating instability.
 - Clear information about the average response time to issues and/or pull requests.
+- One or more badges to indicate code coverage or other quality metrics.
 - The text is updated regularly, at frequent intervals (weekly or even daily) such that inaccuracies are unlikely to exist.
 
