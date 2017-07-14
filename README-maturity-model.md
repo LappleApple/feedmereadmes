@@ -37,8 +37,8 @@
 - The text is updated regularly, but at intervals (monthly or quarterly) such that inaccuracies may exist.
 
 ### Level Five: Product-oriented README
-- Thorough information about what the project is and does, along with details of all its notable features/special attributes and why those exist; user testimonials and evidence of past performance in real development situations included.
-- Information about the project's prior uses, such that the reader will have context for the project's prior performance and effectiveness.
+- Thorough information about what the project is and does, along with details of all its notable features/special attributes and why those exist. The reader will understand why these features and attributes are helpful or meaningful.
+- User testimonials and evidence of past performance in real development situations included.
 - Basic installation, configuration, running details for users that are tested, current and complete, accompanied with information about commonly made errors/how to resolve them.
 - Developer documentation and references to a detailed vision or project roadmap to onboard new contributors; visual aids like diagrams and demos are embedded in the README file.
 - A dedicated Contributing.md/.rst file with detailed information about style guidelines, caveats, and pull request size.
