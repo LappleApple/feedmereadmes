@@ -15,7 +15,7 @@
 - No badges to indicate code coverage or other quality metrics.
 - What text is available may be outdated or non-priority.
 
-**Recommendation**: There are occassions where someone may post a personal project or experiment that isn't necessarily something they intend to share or isn't quite ready to share more broadly yet. In these cases, having little to no documentation may be acceptable. We recommend, however, that even in these cases, project owners minimally indicate the nature/status of the project - for example, warning users that this project is experimental/personal and may not be maintained (essentially "use at your own risk").
+**Recommendation**: There are ocassions when someone may post a personal project or experiment that isn't necessarily something they intend to share or isn't quite ready to share more broadly yet. In these cases, having little to no documentation may be acceptable. We recommend, however, that even in these cases, project owners minimally indicate the nature/status of the project—for example, warning users that this project is experimental/personal and may not be maintained (essentially "use at your own risk").
 
 ### Level Two: Bare Minimum README
 - Limited information about what the project is and does with minimal details of its purpose.
