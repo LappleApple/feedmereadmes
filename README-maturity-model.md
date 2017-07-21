@@ -1,6 +1,6 @@
 ## Notes:
 - This is a draft, spun up in about 20 minutes (July 14, 2017). Please feel free to suggest anything.
-- An alternative format to follow might be [Apache's maturity model](https://community.apache.org/apache-way/apache-project-maturity-model.html) for how their projects operate. Open an issue if you'd like to start the discussion on this.
+- An alternative format to follow might be [Apache's maturity model](https://community.apache.org/apache-way/apache-project-maturity-model.html) for how their projects operate. Feel free to open an issue if you'd like to start the discussion on this.
 
 *****
 ## README Maturity Model
