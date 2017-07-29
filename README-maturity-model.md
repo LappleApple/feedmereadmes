@@ -11,11 +11,11 @@
 - No developer documentation.
 - No complimentary files, such as contributor guidelines.
 - No build status information, such that the reader will not gain much insight into the project's current state.
-- No indication about average response time to issues and/or pull requests.
-- No badges to indicate code coverage or other quality metrics.
-- What text is available may be outdated or non-priority.
+- No suggested average response time to issues and/or pull requests.
+- No badges showing code coverage or other quality metrics.
+- What text is available may be obsolete or non-priority.
 
-**Recommendation**: There are ocassions when someone may post a personal project or experiment that isn't necessarily something they intend to share or isn't quite ready to share more broadly yet. In these cases, having little to no documentation may be acceptable. We recommend, however, that even in these cases, project owners minimally indicate the nature/status of the project—for example, warning users that this project is experimental/personal and may not be maintained (essentially "use at your own risk").
+**Recommendation**: Sometimes developers post personal projects and experiments that aren't necessarily ready-to-share. In these cases, having little to no documentation may be acceptable. Even in these cases, we recommend project owners to indicate the nature/status of the project—for example, by warning users that "this project is experimental/personal and might not be maintained," or noting "use at your own risk."
 
 ### Level Two: Bare Minimum README
 - Limited information about what the project is and does with minimal details of its purpose.
