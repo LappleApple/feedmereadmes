@@ -2,7 +2,7 @@
 
 This project originated during a conversation at FOSDEM 2017 between folks at RedHat and Zalando. It's here to serve:
 - **project authors** looking for README feedback and help. Add the link to your project README via this repository's Issues tracker. You'll receive a thorough README edit and feedback to help you sharpen your project's "why," "how," and "what." We apply [Zalando's product analysis template](https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md) and other resources for this. :)
-- **writers and editors** who would like to help the open source community but aren't sure where to start. Pick a project in the Issues tracker and start working your wordsmith magic.
+- **writers and editors** who would like to help the open source community but aren't sure where to start. Pick a project in the Issues tracker and start working your wordsmith magic. [GitHub's tutorial](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) for new users will help you to find your way. 
 - **product specialists/managers** who want to contribute to open source development. Lend your expertise to help devs strengthen their project purpose and vision.
 
 ### Press/More Info
@@ -33,6 +33,3 @@ Some of us have worked as full-time writers and editors. So we understand that r
 Many of us contribute to FOSS projects at work; we are lucky. You might not have this opportunity ... yet. Many of us non-devs working in the tech industry have created our own jobs. Our writing, editing and communications skills are valuable.
 
 One thing to keep in mind, in FOSS and in life: Go where it's warm. If a project creator treats you poorly, assert your boundaries. Seek collaborators who make you feel respected, appreciated, and "one of them." Don't settle for less.
-
-#### For GitHub First-Timers
-If this is your first time using GitHub, [this tutorial](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) can help you get started. You can also leave a comment in the Issues Tracker: add "HELP: [your questions/needs]" in your issue.
