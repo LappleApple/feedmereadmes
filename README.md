@@ -13,7 +13,7 @@ This project originated during a conversation at FOSDEM 2017 between folks at Re
 In "[README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)," GitHub founder Tom Preston-Warner advised devs to write their READMEs first. "First. As in, before you write any code or tests or behaviors or stories or ANYTHING," he wrote. "I know, I know, we’re programmers, dammit, not tech writers! But that’s where you’re wrong. Writing a Readme is absolutely essential to writing good software. Until you’ve written about your software, you have no idea what you’ll be coding."
 
 Years later, documentation remains an overlooked part of OSS development. How this plays out:
- - No basic install/run/config instructions, which creates friction for potential users and contributors.
+ - No basic install/run/config instructions, which creates friction for potential users.
  - No explanation of why projects exist, how they're unique, or how they solves problems.
  - too-short or outdated READMEs.
  
