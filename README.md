@@ -24,7 +24,7 @@ Even if you don't agree with Preston-Warner, you can still make your READMEs use
 - help project creators explain the "how" and "what"
 - offer guidance that might otherwise be unavailable to individual creators
 - generate discussions and new ideas around README development
-- draw more attention to docs and doc-writing among developers
+- draw more attention to docs and doc-writing
 - provide a safe, simple, fun gateway (or gateway drug?!) for non-devs to contribute to OSS
 
 ### A Note to FOSS First-Timers Who Write/Edit: Why Work for Free?
