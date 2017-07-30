@@ -14,7 +14,7 @@ In "[README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-
 
 Years later, documentation remains an overlooked part of OSS development. How this plays out:
  - No basic install/run/config instructions, which creates friction for potential users.
- - No explanation of why projects exist, how they're unique, or how they solves problems.
+ - No explanation of why projects exist, how they're unique, or how they solve problems.
  - too-short or outdated READMEs.
  
 Even if you don't agree with Preston-Warner, you can still make your READMEs user-friendlier. Feedmereadmes is here to help. We define "user" to include non-developers and aim to [tell compelling stories](https://opensource.com/open-organization/17/1/repo-tells-a-story). "[C]ode isn't self-documenting" is one of our mantras, as per Mike Jang's 2015 OSCON talk offering [Ten Steps to Better READMEs](https://www.youtube.com/watch?v=PC05prd2usY).
