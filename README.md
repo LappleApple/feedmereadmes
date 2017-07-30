@@ -32,4 +32,4 @@ Some of us have worked as full-time writers and editors. So we understand that r
 
 Many of us contribute to FOSS projects at work; we are lucky. You might not have this opportunity ... yet. Many of us non-devs working in the tech industry have created our own jobs. Our writing, editing and communications skills are valuable.
 
-One thing to keep in mind, in FOSS and in life: Go where it's warm. If a project creator treats you poorly, assert your boundaries. Seek collaborators who make you feel respected, appreciated, and "one of them." Don't settle for less.
+One thing to keep in mind, in FOSS and in life: Go where it's warm. If a project creator treats you poorly, assert your boundaries. Seek collaborators who make you feel respected, appreciated, and "one of us." Don't settle for less.
