@@ -22,7 +22,7 @@ Even if you don't agree with Preston-Warner, you can still make your READMEs use
 ### Our Project Aims, in No Specific Order:
 - make READMEs clearer and more useful
 - help project creators explain the "how" and "what"
-- offer guidance that might be unavailable to individual creators
+- offer guidance that might otherwise be unavailable to individual creators
 - generate discussions and new ideas around README development
 - draw more attention to docs and doc-writing among developers
 - provide a safe, simple, fun gateway (or gateway drug?!) for non-devs to contribute to OSS
