@@ -5,8 +5,9 @@ This project originated during a conversation at FOSDEM 2017 between folks at Re
 - **writers and editors** who would like to help the open source community but aren't sure where to start. Pick a project in the Issues tracker and start working your wordsmith magic. [GitHub's tutorial](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) for new users will help you to find your way. 
 - **product specialists/managers** who want to contribute to open source development. Lend your expertise to help devs strengthen their project purpose and vision.
 
-### Press/More Info
+### Press + Quotes
 - [Red Hat/opensource.com](https://opensource.com/open-organization/17/6/documentation-feedmereadmes-project)
+- "I love feadmereadmes"—[Brandon Keepers](https://twitter.com/bkeepers/status/880380207563145217), GitHub 
 
 ### Why We're Doing This
 
