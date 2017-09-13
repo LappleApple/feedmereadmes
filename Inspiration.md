@@ -2,9 +2,7 @@
 
 - [Bring Kindness Back to Open Source](https://www.hanselman.com/blog/BringKindnessBackToOpenSource.aspx) - by Scott Hanselman. Takeaway: "There are many folks out there with skills and knowledge that are not joining open source because their initial attempts to contributed were rebuffed." Hanselman suggests ways to welcome newcomers kindly: add an Contributing.md, tag "issues with "up-for-grabs," and make an issue noting that you will "only accept a PR from someone who has never contributed to open source" (documentation adds/fixes could be great for this).
 
-- [Documentation Driven Development](http://blog.izs.me/post/161633971373/documentation-driven-development) - by Isaac Z. Schlueter. Takeaway: "Before anything else, write down what the thing is in README.md. I use markdown, but any portable plain-text format will do. This takes three parts: The name of the thing. The 1-sentence description of what the thing is. If necessary, a few paragraphs describing the thing. Example code demonstrating how to use the thing."
-
-Note: the thing doesn’t exist yet. You do this before it exists"
+- [Documentation Driven Development](http://blog.izs.me/post/161633971373/documentation-driven-development) - by Isaac Z. Schlueter. Takeaway: "Before anything else, write down what the thing is in README.md. I use markdown, but any portable plain-text format will do. This takes three parts: The name of the thing. The 1-sentence description of what the thing is. If necessary, a few paragraphs describing the thing. Example code demonstrating how to use the thing. Note: the thing doesn’t exist yet. You do this before it exists"
 
 - [How to Write Documentation That's Actually Useful](https://insights.hpe.com/articles/how-to-write-documentation-thats-actually-useful-1707.html) - by Steven Vaughan-Nichols. Takeaway: "[F]our ways to make sure your applications make sense to humans as well as to computers."
 
