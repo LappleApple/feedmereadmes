@@ -12,6 +12,10 @@ This project originated during a conversation at FOSDEM 2017 between folks at Re
 - "I love feadmereadmes" —[Brandon Keepers](https://twitter.com/bkeepers/status/880380207563145217), GitHub
 - "Great opportunity for #writers to contribute to FOSS!" [Ivana Isadora Devcic](https://twitter.com/ivana_isadora/status/858416934836215810), KDE Community
 
+### Inspiration List
+
+[Go here](Inspiration.md) for relevant articles, talks, and projects that we find inspiring. Add your own favorites via pull request.
+
 ### Why We're Doing This
 
 In "[README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)," GitHub founder Tom Preston-Warner advised devs to write their READMEs first. "First. As in, before you write any code or tests or behaviors or stories or ANYTHING," he wrote. "I know, I know, we’re programmers, dammit, not tech writers! But that’s where you’re wrong. Writing a Readme is absolutely essential to writing good software. Until you’ve written about your software, you have no idea what you’ll be coding."
