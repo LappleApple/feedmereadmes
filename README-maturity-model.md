@@ -9,7 +9,7 @@
 - No/almost no README text of any sort.
 - No installation, configuration, running details.
 - No developer documentation.
-- No complimentary files, such as contributor guidelines.
+- No complementary files, such as contributor guidelines.
 - No build status information, so there's no insight into the project's current state.
 - No suggested average response time to issues and/or pull requests.
 - No badges showing code coverage or other quality metrics.
