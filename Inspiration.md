@@ -12,6 +12,10 @@
 
 - [CodeWerdz Project](http://codewerdz.org/) - by Troy Howard and Nik Blanchet. Takeaway: "We would like to see developer culture shift from a code-centric model, where the code is considered the most important thing, to a product-centric model, where the code is considered just one component of a shippable product, which also includes unit tests, and documentation."
 
+## Standards
+
+- [Standard Readme](https://github.com/RichardLitt/standard-readme) - by Richard Litt. Takeaway: "Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worry about whether or not your initial documentation is good, and spend more time writing and using code."
+
 ## Videos
 
 - [Communication Is Just as Important as Code](https://www.youtube.com/watch?v=VFuNdKPV0jc&feature=youtu.be) - by Andrea Goulet, NEJS 2016. Takeaway: "The idea of a lone developer coding in their basement without social interaction is a thing of the past. These days, technical solutions are often developed by cross-functional teams whose participants have a range of technical experience. Now, more than ever, good communication skills are an essential part of being a software developer. In this talk, Andrea will share immediately actionable communication principles that will help you; get buy-in for your ideas, reduce conflict and tension, increase productivity, be liked and respected."
