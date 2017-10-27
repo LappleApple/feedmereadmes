@@ -14,7 +14,7 @@
 
 ## Standards
 
-- [Standard Readme](https://github.com/RichardLitt/standard-readme) - by Richard Litt. Takeaway: "Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worry about whether or not your initial documentation is good, and spend more time writing and using code."
+- [Standard Readme](https://github.com/RichardLitt/standard-readme) - by Richard Litt. Takeaway: "Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process—making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not—you can spend less time worry about whether or not your initial documentation is good, and spend more time writing and using code."
 
 ## Videos
 
