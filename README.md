@@ -9,8 +9,9 @@ This project originated during a conversation at FOSDEM 2017 between folks at Re
 
 ### Press + Quotes
 - [Red Hat/opensource.com](https://opensource.com/open-organization/17/6/documentation-feedmereadmes-project)
-- "I love feadmereadmes" —[Brandon Keepers](https://twitter.com/bkeepers/status/880380207563145217), GitHub
-- "Great opportunity for #writers to contribute to FOSS!" [Ivana Isadora Devcic](https://twitter.com/ivana_isadora/status/858416934836215810), KDE Community
+- "I love feadmereadmes" – [Brandon Keepers](https://twitter.com/bkeepers/status/880380207563145217), GitHub
+- "Great opportunity for #writers to contribute to FOSS!" – [Ivana Isadora Devcic](https://twitter.com/ivana_isadora/status/858416934836215810), KDE Community
+- "A truly excellent service to the community." – Jerod Santo, [The Changelog](https://changelog.com/podcast)
 
 ### Inspiration List
 
