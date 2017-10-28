@@ -56,9 +56,9 @@
 **Recommendation**: A Level Four README can support large-scale community usage and growth. It might lack some ingredients necessary for achieving widespread use and adoption. Corporations that impose stringent standards for adoption might hesitate before using it.
 
 ### Level Five: Product-oriented README
-Detailed information about the project's purpose, functionality and special features/attributes, so that the reader can immediately understand the usefulness and impact of its features and attributes.
-— User testimonials and evidence of past performance in real development situations.
-— Detailed user installation, configuration, and running instructions, tested and current; information about common errors and how to resolve them.
+- Detailed information about the project's purpose, functionality and special features/attributes, so that the reader can immediately understand the usefulness and impact of its features and attributes.
+- User testimonials and evidence of past performance in real development situations.
+- Detailed user installation, configuration, and running instructions, tested and current; information about common errors and how to resolve them.
 - Detailed documentation for potential contributors.
 - A detailed vision statement or project roadmap for onboarding new contributors.
 - Embedded visual aids like diagrams and demos.
