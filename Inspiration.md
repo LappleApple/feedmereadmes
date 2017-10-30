@@ -10,6 +10,8 @@
 
 ## Projects
 
+- [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs/) - by Mark Phillips. Takeaway: "a list of docs and other developer resources that [Phillips] and others find particularly useful, well-written, and otherwise 'beautiful.'"
+
 - [CodeWerdz Project](http://codewerdz.org/) - by Troy Howard and Nik Blanchet. Takeaway: "We would like to see developer culture shift from a code-centric model, where the code is considered the most important thing, to a product-centric model, where the code is considered just one component of a shippable product, which also includes unit tests, and documentation."
 
 ## Standards
