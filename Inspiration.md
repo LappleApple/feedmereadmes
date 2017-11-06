@@ -6,6 +6,8 @@
 
 - [How to Write Documentation That's Actually Useful](https://insights.hpe.com/articles/how-to-write-documentation-thats-actually-useful-1707.html) - by Steven Vaughan-Nichols. Takeaway: "[F]our ways to make sure your applications make sense to humans as well as to computers."
 
+- [“Why isn’t someone using my software product or open source tool? It’s good!”](https://twitter.com/sehurlburt/status/921921604140937216) - by Stephanie Hurlburt. Takeaway: A Twitter thread/checklist of project elements to consider and add so that you speak to your intended audience with software they can understand and use.
+
 - [We did a week entirely dedicated to writing, and you should do one too.](https://building.buildkite.com/we-did-a-week-entirely-dedicated-writing-and-you-should-do-one-too-5fbbae480a56) - by Harriet at Buildkite. Takeaway: Hold a dedicated Writing Week for your team to create blog posts, READMEs and other documentation.
 
 - [You Are What You Document](http://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - by Yevgeniy Brikman. Takeaway: "The number one cause of startup failure is not the product, but the distribution: it doesn’t matter how good the product is if no one uses it. With software, the documentation is the distribution: it doesn’t matter how good the code is if no one uses it. If it isn’t documented, it doesn’t exist."
