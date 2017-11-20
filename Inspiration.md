@@ -8,6 +8,8 @@
 
 - [The Product Vision](https://www.scrumalliance.org/community/articles/2009/january/the-product-vision) - by  Roman Pichler. Takeaway: Asks five key questions to think about before/while building a project: "1. Who is going to [use] the product? Who is the target customer?; 2. Which customer needs will the product address?; 3. Which product attributes are critical to satisfy the needs selected, and therefore for the success of the product?; 4. How does the product compare against existing products, both from competitors and the same company? What are the product’s unique selling points?; 5. What is the target timeframe and budget to develop and launch the product?"
 
+- [What Does a Sustainable Open Source Project Look Like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - by Andrew Nesbitt. Takeaway: A list of standards regarding governance, documentation, code quality, support, ecosystem collaboration, security, legal, financial, marketing and dependency hygiene.
+
 - [“Why isn’t someone using my software product or open source tool? It’s good!”](https://twitter.com/sehurlburt/status/921921604140937216) - by Stephanie Hurlburt. Takeaway: A Twitter thread/checklist of project elements to consider and add so that you speak to your intended audience with software they can understand and use.
 
 - [We did a week entirely dedicated to writing, and you should do one too.](https://building.buildkite.com/we-did-a-week-entirely-dedicated-writing-and-you-should-do-one-too-5fbbae480a56) - by Harriet at Buildkite. Takeaway: Hold a dedicated Writing Week for your team to create blog posts, READMEs and other documentation.
