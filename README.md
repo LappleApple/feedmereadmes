@@ -1,6 +1,6 @@
 ## Feedmereadmes: A README Help Exchange
 
-This project originated during a conversation at FOSDEM 2017 between folks at RedHat and Zalando. It's here to serve:
+This project originated during a conversation at FOSDEM 2017 between folks at RedHat and (at the time) Zalando. It's here to serve:
 - **project authors** looking for README feedback and help. Add the link to your project README via this repository's Issues tracker. You'll receive a thorough README edit and feedback to help you sharpen your project's "why," "how," and "what." We apply [Zalando's product analysis template](https://github.com/zalando/zalando-howto-open-source/blob/master/producttemplate.md) and other resources for this. :)
 - **writers and editors** who would like to help the open source community but aren't sure where to start. Pick a project in the Issues tracker and start working your wordsmith magic. [GitHub's tutorial](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) for new users will help you to find your way. 
 - **product specialists/managers** who want to contribute to open source development. Lend your expertise to help devs strengthen their project purpose and vision.
