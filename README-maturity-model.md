@@ -1,9 +1,6 @@
-## Up for Discussion:
-- This is a draft, spun up in about 20 minutes (July 14, 2017). Please feel free to suggest anything.
-- [Apache's maturity model](https://community.apache.org/apache-way/apache-project-maturity-model.html) might offer a more appropriate format. Feel free to open an issue if you'd like to start the discussion on this.
-
-*****
 ## README Maturity Model
+
+This isn't scientific, but meant to offer a little guidance.
 
 ### Level One: "The Code is the Documentation"
 - No/almost no README text of any sort.
