@@ -19,14 +19,12 @@ This project originated during a conversation at FOSDEM 2017 between folks at Re
 
 ### Why We're Doing This
 
-In "[README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)," GitHub founder Tom Preston-Warner advised devs to write their READMEs first. "First. As in, before you write any code or tests or behaviors or stories or ANYTHING," he wrote. "I know, I know, we’re programmers, dammit, not tech writers! But that’s where you’re wrong. Writing a Readme is absolutely essential to writing good software. Until you’ve written about your software, you have no idea what you’ll be coding."
-
-Years later, documentation remains an overlooked part of OSS development. How this plays out:
+Documentation remains an overlooked part of OSS development. How this plays out:
  - No basic install/run/config instructions, which creates friction for potential users.
  - No explanation of why projects exist, how they're unique, or how they solve problems.
  - too-short or outdated READMEs.
  
-Even if you don't agree with Preston-Warner, you can still make your READMEs user-friendlier. Feedmereadmes is here to help. We define "user" to include non-developers and aim to [tell compelling stories](https://opensource.com/open-organization/17/1/repo-tells-a-story). "[C]ode isn't self-documenting" is one of our mantras, as per Mike Jang's 2015 OSCON talk offering [Ten Steps to Better READMEs](https://www.youtube.com/watch?v=PC05prd2usY).
+Feedmereadmes aims to help bridge the gap between project maintainers who want to make their docs user-friendly, and people with writing and editing skills who can help them. We define "user" to include non-developers and aim to [tell compelling stories](https://opensource.com/open-organization/17/1/repo-tells-a-story). "[C]ode isn't self-documenting" is one of our mantras, as per Mike Jang's 2015 OSCON talk offering [Ten Steps to Better READMEs](https://www.youtube.com/watch?v=PC05prd2usY).
 
 ### Our Project Aims, in No Specific Order:
 - make READMEs clearer and more useful
