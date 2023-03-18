@@ -12,6 +12,8 @@
 
 - [Most Developers Think We Should Spend More Time on Documentation](https://bids.berkeley.edu/news/most-developers-think-we-should-spend-more-time-documentation) - by Chris Holdgraf. Takeaway: "While the data ...are a coarse measure of time for each person, they suggest that there may be a systematic under-representation of documentation in the workflows of the open source community, and that this may be tied to lower perceived appreciation and enjoyment in writing documentation. In the coming months, we hope to explore why this discrepancy might exist. Is it because of a difference in values, or skills? Are there ways that we could increase the likelihood that documentation is well-maintained (or created in the first place)?"
 
+- [Six Steps to Perfecting an Open Source Product Strategy]([6 steps to perfecting an open source product strategy](https://opensource.com/article/17/9/demystifying-open-source-product-strategy)) - by Michael Dehaan. Takeaway: Six time-tested pointers for making sure your project gains users. Check out #3: "Obsess about great documentation."
+
 - [What Does a Sustainable Open Source Project Look Like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - by Andrew Nesbitt. Takeaway: A list of standards regarding governance, documentation, code quality, support, ecosystem collaboration, security, legal, financial, marketing and dependency hygiene.
 
 - [“Why isn’t someone using my software product or open source tool? It’s good!”](https://twitter.com/sehurlburt/status/921921604140937216) - by Stephanie Hurlburt. Takeaway: A Twitter thread/checklist of project elements to consider and add so that you speak to your intended audience with software they can understand and use.
